@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365793164411",
+    "project_id": "employee-management-fcaf4",
+    "storage_bucket": "employee-management-fcaf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365793164411:android:55f1cfe11b5b330d8776de",
+        "android_client_info": {
+          "package_name": "com.chanuka.employeemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365793164411-nl6nv5qj53l349rajeef9en79pbmevgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZMpP5MdbqwVIspXxtzG58Df127Lpps8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365793164411-nl6nv5qj53l349rajeef9en79pbmevgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
